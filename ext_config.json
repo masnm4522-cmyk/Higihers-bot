@@ -1,0 +1,38 @@
+{
+    "bot_home": {
+        "x": 16.737930297851562,
+        "y": 1.1920928955078125e-07,
+        "z": 17.673110961914062
+    },
+    "floors": {
+        "k1": {
+            "x": 11.785430908203125,
+            "y": 1.1920928955078125e-07,
+            "z": 16.25848388671875
+        },
+        "k2": {
+            "x": 15.406482696533203,
+            "y": 7.25,
+            "z": 27.623828887939453
+        },
+        "k3": {
+            "x": 15.507514953613281,
+            "y": 12.25,
+            "z": 27.505165100097656
+        }
+    },
+    "loop_messages": [
+        "Hi welcome 😁 Find a Spouse 💕🥹🍼🍼🥹 ta dance 1 ta 261 tayp 😊"
+    ],
+    "loop_interval": 300,
+    "loop_enabled": true,
+    "bot_silent": false,
+    "welcome_dm": true,
+    "welcome_dm_message": "welcome Find a Spouse 💕🥹🍼❤️",
+    "vip_temp_list": {},
+    "warn_records": {},
+    "banned_users": [],
+    "welcome_dm_enabled": true,
+    "bot_dance_emote": "dance-floss",
+    "room_id": "68191b05bea4bd065ae239e2"
+}
